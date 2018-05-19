@@ -1,5 +1,5 @@
 # Description
- A token based authentication example writen in Node JS.
+ A NodeJS token based authentication example.
 
 # Used dependencies
 [bcryptjs](https://www.npmjs.com/package/bcryptjs) -  bcrypt in JavaScript with zero dependencies. Compatible to the C++ bcrypt binding on node.js and also working in the browser.
