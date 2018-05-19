@@ -30,6 +30,7 @@
     `docker run -p 27017:27017 mongo`
 
 2. Check test-cases
+
     Go inside project folder and run:
 
     `npm test`
