@@ -35,7 +35,7 @@
 
     `npm test`
 
-3. Run developmemt environment using node/nodemon
+3. Run development environment mode using node/nodemon
     
     `node/nodemon app.js`
 
