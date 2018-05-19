@@ -25,4 +25,16 @@
 [validator](https://www.npmjs.com/package/validator) - A library of string validators and sanitizers.
 
 # How to test
-Tbd...
+1. Run mongodb locally using Docker:
+    
+    `docker run -p 27017:27017 mongo`
+
+2. Check test-cases
+    Go inside project folder and run:
+
+    `npm test`
+
+3. Run developmemt environment using node/nodemon
+    
+    `node/nodemon app.js`
+
