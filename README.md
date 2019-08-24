@@ -29,13 +29,16 @@
     
     `docker run -p 27017:27017 mongo`
 
-2. Check test-cases
+2. Install dependencies.
+  `npm install`
+
+3. Check test-cases
 
     Go inside project folder and run:
 
     `npm test`
 
-3. Run development environment mode using node/nodemon
+4. Run development environment mode using node/nodemon
     
     `node/nodemon app.js`
 
